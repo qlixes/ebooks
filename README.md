@@ -5,6 +5,8 @@
 
 <a href="/rongfengliang/ebooks/blob/master/Learning GraphQL.epub">Learning GraphQL</a>
 
+<a href="/rongfengliang/ebooks/blob/master/Beginning+GraphQL.pdf">Beginning+GraphQL</a>
+
 <a href="/rongfengliang/ebooks/blob/master/Visual Design of GraphQL Data.pdf">Visual Design of GraphQL Data</a>
 
 <a href="/rongfengliang/ebooks/blob/master/neo4j-graphql.pdf">neo4j-graphql</a>
